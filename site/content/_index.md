@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Kanpur's Premier Traffic Booth Advertising Agency: Balram Advertisers"
+subtitle: "Elevate Your Brand Visibility with Our Exclusive Intersection Advertising Solutions"
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Balram Advertisers?
+    text: "Balram Advertisers is the only traffic booth advertisement agency in Kanpur authorized to advertise at major intersections in the city center. We provide viewers with a world-class, unique experience."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "We offer advertisement space on traffic booths at major locations, including Bada Chauraha, Phoolbagh Chauraha, Fazalganj Chauraha, Vijay Nagar Chauraha, Rawatpur Tiraha, and Gol Chauraha."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Our Phoolbagh Chauraha traffic booth is the first world-class traffic booth in North India. It not only offers a world-class advertising experience but also features a state-of-the-art traffic police booth."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Our other traffic booths are under contruction and will be available soon"
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: "At Balram Advertisers, integrity, creativity, and client satisfaction are at the core of everything we do."
 ---
 
