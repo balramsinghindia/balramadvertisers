@@ -1,6 +1,6 @@
 ---
-title: "Kanpur's Premier Traffic Booth Advertising Agency: Balram Advertisers"
-subtitle: "Elevate Your Brand Visibility with Our Exclusive Intersection Advertising Solutions"
+title: "Kanpur's Premier Traffic Booth Advertising Agency"
+subtitle: "9076562234, 9559542234, 9990562234"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Balram Advertisers?
