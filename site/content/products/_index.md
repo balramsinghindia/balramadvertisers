@@ -51,5 +51,5 @@ pricing:
         - Comfy for Traffic Police
         - Supported By Kanpur Nagar Nigam
       plan: Small
-      price: '30000'
+      price: '25,000'
 ---
