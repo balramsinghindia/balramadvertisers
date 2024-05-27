@@ -13,6 +13,7 @@ values:
   - heading: "Client Satisfaction"
     text: >
       Client satisfaction is our ultimate goal. We are dedicated to understanding the unique needs and objectives of each client and tailoring our services to meet those needs. From the initial consultation to the final execution of the campaign, we focus on delivering exceptional service and results. Our clients’ success is our success, and we go above and beyond to ensure that every campaign not only meets but exceeds expectations.
+    imageUrl: "/img/about-sustainable-farming.jpg"
   - heading: "Community Engagement"
     text: >
       We believe in giving back to the community that supports us. Balram Advertisers is dedicated to making a positive impact in Kanpur by supporting local initiatives and contributing to the city’s development. Our traffic booth advertisements not only promote businesses but also enhance the aesthetics and functionality of public spaces. We are proud to play a role in the growth and improvement of our community, creating a better environment for businesses and residents alike.
