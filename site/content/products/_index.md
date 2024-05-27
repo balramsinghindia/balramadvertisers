@@ -1,49 +1,28 @@
 ---
-title: Our Coffee
+title: Prime Location Advertising
 type: products
 image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Balram Advertisers proudly offers premium traffic booth advertising spaces at the most sought-after intersections in Kanpur: Bada Chauraha, Gol Chauraha, Rawatpur Tiraha, Phoolbagh Chauraha, Fazalganj Chauraha, and Vijay Nagar Chauraha. These prime locations guarantee high visibility and maximum reach, as they are bustling with activity and seen by thousands of commuters and pedestrians every day. Our strategic placements ensure that your advertisements achieve the best possible exposure in the city.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Our traffic booths are not just ordinary advertising spaces; they are designed to provide a world-class advertising experience. The Phoolbagh Chauraha booth, for example, is the first of its kind in North India, featuring cutting-edge design and technology that enhances the visibility and impact of your advertisements. This state-of-the-art traffic police booth doubles as a prominent advertising platform, ensuring that your brand stands out in a crowded market.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Balram Advertisers offers a comprehensive network of traffic booth advertising spaces across Kanpur, covering both commercial and residential areas. Whether you’re targeting the busy commercial hubs like Bada Chauraha and Gol Chauraha or the bustling residential zones such as Vijay Nagar Chauraha, we have you covered. Our extensive reach ensures that your message is delivered to a diverse and broad audience, increasing brand awareness and driving customer engagement.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Our traffic booth advertisements are strategically placed at intersections where traffic converges, ensuring prolonged exposure to a captive audience. As vehicles stop at these intersections, drivers and passengers naturally turn their attention to our well-placed advertisements. This high visibility combined with the repetitive nature of daily commutes ensures that your message is reinforced consistently, making a lasting impression on potential customers.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        At Balram Advertisers, we are committed to delivering excellence in every aspect of our service. From the quality of our advertising spaces to the professionalism of our team, we strive to exceed client expectations. Our dedication to integrity, creativity, and client satisfaction drives us to continually innovate and improve our offerings. Choose Balram Advertisers for your traffic booth advertising needs and experience the difference that a truly premier advertising agency can make for your brand.
 main:
-  heading: Great coffee with no compromises
+  heading: Unmatched Visibility and Engagement
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    At Balram Advertisers, we believe in offering customized advertising solutions to meet the unique needs of our clients. Our team works closely with you to understand your brand, target audience, and marketing goals, ensuring that your advertisements are not only visually striking but also strategically effective. From creative design to optimal placement, we provide end-to-end services that maximize your campaign’s impact. Trust Balram Advertisers to deliver tailored solutions that drive results and elevate your brand’s presence in Kanpur’s prime locations.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
