@@ -36,12 +36,12 @@ testimonials:
   - author: Balram Advertisers
     quote: >-
       We have just launched our services, so would add as we hear from our clients.
-  - author: Balram Advertisers
+  - author: Yet to come
     quote: >-
-      We have just launched our services, so would add as we hear from our clients.
+      We will show it soon. Still building.
 full_image: /img/balramadvertiserskanpur14.jpg
 pricing:
-  heading: Our locations are:
+  heading: Our locations are
   description: >-
     Phoolbagh, Bada Chauraha, Gol Chauraha, Vijay Nagar Chauraha, Fazalganj Chauraha and Rawatpur tiraha
   plans:
@@ -53,5 +53,3 @@ pricing:
       plan: Small
       price: '30000'
 ---
-
-
