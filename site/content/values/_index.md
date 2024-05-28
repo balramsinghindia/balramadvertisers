@@ -21,5 +21,5 @@ values:
   - heading: "World-Class Quality"
     text: >
       At Balram Advertisers, we are committed to delivering world-class quality in every advertisement and traffic booth we create. Our ad spaces are designed with cutting-edge features and superior aesthetics to ensure they stand out and capture attention. By utilizing state-of-the-art technology and innovative designs, we provide advertising solutions that not only attract viewers but also enhance the overall visual appeal and functionality of public spaces.
-    imageUrl: "/img/balramadvertiserskanpur21.jpg"
+    imageUrl: "/img/balramadvertiserskanpur1.jpg"
 ---
