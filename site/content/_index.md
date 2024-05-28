@@ -3,7 +3,7 @@ title: "Kanpur's Premier Traffic Booth Advertising Agency"
 subtitle: "9076562234, 9559542234, 9990562234"
 image: /img/balramadvertiserskanpur1.jpg
 blurb:
-    heading: Why Balram Advertisers?
+    heading: Balram Advertisers?
     text: "Balram Advertisers is the only traffic booth advertisement agency in Kanpur authorized to advertise at major intersections in the city center. We provide viewers with a world-class, unique experience."
 intro:
     heading: "What we offer"
